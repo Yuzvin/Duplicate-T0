@@ -1,0 +1,6 @@
+C:\Users\WriterMix\Desktop\EleksT0\EleksT0\bin\Debug\EleksT0.exe.config
+C:\Users\WriterMix\Desktop\EleksT0\EleksT0\bin\Debug\EleksT0.exe
+C:\Users\WriterMix\Desktop\EleksT0\EleksT0\bin\Debug\EleksT0.pdb
+C:\Users\WriterMix\Desktop\EleksT0\EleksT0\obj\Debug\EleksT0.csprojResolveAssemblyReference.cache
+C:\Users\WriterMix\Desktop\EleksT0\EleksT0\obj\Debug\EleksT0.exe
+C:\Users\WriterMix\Desktop\EleksT0\EleksT0\obj\Debug\EleksT0.pdb
